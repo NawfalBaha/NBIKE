@@ -467,30 +467,28 @@ caption{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer p{
 	text-decoration: none;
 	background:  #518b87;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	font-size: x-small;
+}
+
+
+@media screen and (max-width: 1090px) {
+	#cuerpo{
+		margin-top:-2.3%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+body{
+	
+	
+}
+	.colum img{
+		float: left;
+		width: 15%;
+		margin-left: 70px;
+		}
 }
