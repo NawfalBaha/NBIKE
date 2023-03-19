@@ -482,7 +482,9 @@ footer p{
 		margin-left: 1%;
 		margin-right: 1%;
 	}
-body{
+#to{
+		left: 80%;
+	}
 	
 	
 }
